@@ -2733,12 +2733,6 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .theme-dark .channel-textarea-inner{border-left: 2px solid #212121 !important;border-right: 2px solid #212121 !important;}
 
-.message-group .avatar-large[style*="172218388880293888"] {background-image:url(https://i.imgur.com/KUFVy78.png) !important;}
-
-.message-group:hover .avatar-large[style*="172218388880293888"]{background-image:url(https://i.imgur.com/tLfxGiD.gif) !important;}
-
-*[style*="172218388880293888"] {background-image:url(https://i.imgur.com/tLfxGiD.gif) !important;}
-
 .app .guilds .guild.active:first-child{background: #131313;}
 
 .titlebar{width: calc(100% - 300px);left: auto;right: 0;}
