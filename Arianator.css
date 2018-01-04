@@ -7,7 +7,7 @@
 	--version-content: "1.0";
 	--main-color: #ffa9c0;
     --hover-color: #c1a9c0;
-	--main-background: "https://i.imgur.com/QG1HWKd.jpg";
+	--main-background: "https://i.imgur.com/iVYHF3U.png";
  }
 
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to discord.me/mrrobotserver to show love and support! <3"!important;}
@@ -831,7 +831,7 @@ div.message-group {background-color: rgba(0,0,0,0.5)!important;}
 
 .disabledButton-dEblCJ {opacity: .4 !important;background-color: rgba(129,2,2,0.4) !important;}
 
-.auth-background {background-image: url(https://i.imgur.com/QG1HWKd.jpg) !important;}
+.auth-background {background-image: url(https://i.imgur.com/iVYHF3U.png) !important;}
 
 .form .control-group label {text-shadow: 1px 1px 1px black !important;}
 
@@ -847,21 +847,21 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 /*Change the url in .app to change the background behind chat */
 
-.app { background-image: url("https://i.imgur.com/QG1HWKd.jpg") !important; background-size: cover !important; }
+.app { background-image: url("https://i.imgur.com/iVYHF3U.png") !important; background-size: cover !important; }
 
 /*Change the url in .callout-backdrop to change the background when modal pop outs happen */
 
-.callout-backdrop { background-color: black !important; background-image: url("https://i.imgur.com/QG1HWKd.jpg") !important; -webkit-transition: 0.3s all ease; -o-transition: 0.3s all ease; -moz-transition: 0.3s all ease; transition: 0.3s all ease; background-size: cover !important; -webkit-filter: brightness(75%); }
+.callout-backdrop { background-color: black !important; background-image: url("https://i.imgur.com/iVYHF3U.png") !important; -webkit-transition: 0.3s all ease; -o-transition: 0.3s all ease; -moz-transition: 0.3s all ease; transition: 0.3s all ease; background-size: cover !important; -webkit-filter: brightness(75%); }
 
 /*Change the urls below to change the background of a profile modal pop up */
 
 .user-popout:before {
-    background-image: url("https://i.imgur.com/QG1HWKd.jpg") !important;
+    background-image: url("https://i.imgur.com/iVYHF3U.png") !important;
     content: "";position: absolute;left: 0;top: 0;height: 100%;width: 100%;z-index: -1;background-position: 50% 50%;-webkit-filter: blur(3px);-webkit-transform: scale(1.05);transform: scale(1.05);}
 
 #user-profile-modal .header:before {
-    background: -webkit-linear-gradient(top, rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.5)), url("https://i.imgur.com/QG1HWKd.jpg") !important;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.5)), url("https://i.imgur.com/QG1HWKd.jpg") !important;
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.5)), url("https://i.imgur.com/iVYHF3U.png") !important;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.5)), url("https://i.imgur.com/iVYHF3U.png") !important;
     content: "";position: absolute;left: 0;top: 0;width: 100%;height: 100%;z-index: -1;background-position: 50% 50%;background-size: cover !important;-webkit-filter: blur(3px);-webkit-transform: scale(1.1);transform: scale(1.1);}
 
  /*
