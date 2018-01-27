@@ -4837,4 +4837,22 @@ input, textarea {color: white;}
         box-shadow: 0 0 15px var(--hover-color), inset 0 0 10px var(--hover-color);
     }
 }
+ 
+@-webkit-keyframes slide-in-right {
+    to {
+        right: -1000px;
+    }
+}
+
+
+@-webkit-keyframes glow3 {
+    0% {
+        border-color: var(--main-color);
+        box-shadow: 0 0 5px var(--main-color), inset 0 0 5px var(--main-color);
+    }
+    100% {
+        border-color: var(--hover-color);
+        box-shadow: 0 0 15px var(--hover-color), inset 0 0 10px var(--hover-color);
+    }
+}
 */
